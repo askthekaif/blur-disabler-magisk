@@ -1,7 +1,7 @@
-id=blur-enabler
-name=Blur Enabler
+id=blur-disabler
+name=Blur Disabler
 version=0.1.0
 versionCode=1
-author=hacker1024
-description=Enables window blurs in SurfaceFlinger.
-updateJson=https://github.com/hacker1024/blur-enabler-magisk/raw/master/update.json
+author=hacker1024 & askthekaif
+description=Disable window blurs in SurfaceFlinger.
+updateJson=https://github.com/hacker1024/blur-disabler-magisk/raw/master/update.json
