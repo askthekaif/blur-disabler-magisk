@@ -1,7 +1,6 @@
 name: Release
 
-on:
-  workflow_call:
+on: push
 
 jobs:
   release:
